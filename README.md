@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Milad Soleimani
+- 👀 iam intrested in backend and Frontend Development for mobile and Web ...
+- 🌱 I’m currently learning Flutter ...
+- 📫 miladms666@gmail.com ...
+
+<!---
+MiladSm-79/MiladSm-79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
